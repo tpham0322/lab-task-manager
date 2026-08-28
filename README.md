@@ -29,6 +29,7 @@ A task management application built with React and TypeScript. This project demo
 
 ## Project Structure
 
+```text
 src/
 ├── components/
 │   ├── TaskFilter/
@@ -47,6 +48,7 @@ src/
 ├── App.tsx
 ├── index.css
 └── main.tsx
+```
 
 ## Components
 
